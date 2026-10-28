@@ -15,7 +15,7 @@ Interested in UI/UX Design and Web Development.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,react,php,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,php,python,js&theme=dark" />
 
 </div>
 

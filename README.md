@@ -21,13 +21,19 @@ Interested in UI/UX Design and Web Development.
 
 ---
 
-### GitHub Stats
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vanesagladisya&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api?username=vanesagladisya&show_icons=true&theme=midnight-purple&hide_border=true"
+    alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanesagladisya&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanesagladisya&layout=compact&theme=midnight-purple&hide_border=true"
+    alt="Most Used Languages" />
 
 </div>
 

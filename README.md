@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vanesagladisya/vanesagladisya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=180&section=header&text=Vanesa%20Gladisya&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-Here are some ideas to get you started:
+### Hi, I'm Vanesa! 💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Informatics Student
+Interested in UI/UX Design and Web Development.
+
+</div>
+
+---
+
+### Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,react,php,mysql,git&theme=dark" />
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vanesagladisya&show_icons=true&theme=midnight-purple&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanesagladisya&layout=compact&theme=midnight-purple&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+[GitHub](https://github.com/vanesagladisya) · [LinkedIn](https://www.linkedin.com/in/vanesa-gladisya-aa4158294/)
+
+</div>
